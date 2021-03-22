@@ -1,2 +1,2 @@
 # Topic Modeling
-Exploratory analysis of clustering methods for topic models to extract topics from Model Catalog abstracts
+Exploratory analysis of clustering methods and topic models to extract keywords/topics from Model Catalog abstracts
